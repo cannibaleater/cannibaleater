@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">🧠 CANNIBALEATER</h1>
 
-<!--
-**cannibaleater/cannibaleater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/cannibaleater/cannibaleater/blob/main/bannerds.png" alt="banner" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Sobre mim
+
+- 🎓 Formação: FEBRABAN, EBAC, autodidata  
+- 🕵 OSINT, Python, Cybersecurity  
+- 🐍 Criando ferramentas do zero  
+- 🔭 Entusiasta de tecnologia e análise de dados
+
+---
+
+### 🧠 Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cannibaleater&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannibaleater&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center"><i>"Code. Break. Rebuild. Repeat."</i></p>
