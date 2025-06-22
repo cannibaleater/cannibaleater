@@ -1,7 +1,7 @@
 <h1 align="center">🧠 CANNIBALEATER</h1>
 
 <p align="center">
-  <img src="https://github.com/cannibaleater/cannibaleater/blob/main/headles.png" alt="banner" />
+  <img src="https://github.com/cannibaleater/cannibaleater/blob/main/headless.png" alt="banner" />
 </p>
 
 ---
